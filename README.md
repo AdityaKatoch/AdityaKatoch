@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Aditya Katoch</h1>
-<h3 align="center">A frontend developer and a STEM enthusiast.</h3>
+<h3 align="center">A game developer and a STEM enthusiast.</h3>
 
-- 🔭 I’m currently working on **Web development using Python.**
+- 🔭 I’m currently working on **Game dev using Python.**
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Python**
 
 - 💬 Ask me about **Android, Operating systems and Windows UI**
 
 - 📫 How to reach me **akatochnoida@gmail.com**
 
-- ⚡ Fun fact **I am also preparing for JEE**
+- ⚡ Fun fact **I play chess**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
